@@ -33,4 +33,6 @@ See a session ID printed out.
 
 Click `Send fetch()`. Look in console.
 
-**If main.py SAME_SITE param is `'Lax'`, then Safari should console.log `fetch ok` along with the session ID. If main.py SAME_SITE param is None, then Safari should console.log `fetch ok` along with a null session. In either case, Chrome and Firefox should show the session id.**
+- **If main.py SAME_SITE param is `'Lax'`, then Safari should console.log `fetch ok` along with the session ID.**
+- **If main.py SAME_SITE param is None, then Safari should console.log `fetch ok` along with a null session.**
+- In either case, Chrome and Firefox should show the session id.
