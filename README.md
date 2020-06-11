@@ -1,6 +1,6 @@
 # safari-cookies demo
 
-Demonstrates Safari `SameSite=Lax` cookie behaviour difference from chrome, firefox.
+Demonstrates Safari `SameSite=Lax` cookie behaviour difference on local subdomains from chrome, firefox.
 
 ## Setup
 
